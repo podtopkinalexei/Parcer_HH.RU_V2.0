@@ -8,6 +8,9 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "psycopg2 (>=2.9.10,<3.0.0)",
+    "dotenv (>=0.9.9,<0.10.0)",
+    "pytest (>=8.4.1,<9.0.0)"
 ]
 
 
